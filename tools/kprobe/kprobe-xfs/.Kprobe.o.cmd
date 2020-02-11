@@ -1,0 +1,1 @@
+cmd_/home/odin/hanjinke/kprobe/Kprobe.o := ld -m elf_x86_64   -r -o /home/odin/hanjinke/kprobe/Kprobe.o /home/odin/hanjinke/kprobe/kprobe.o /home/odin/hanjinke/kprobe/filter.o ; scripts/mod/modpost /home/odin/hanjinke/kprobe/Kprobe.o
